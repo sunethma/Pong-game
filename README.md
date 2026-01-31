@@ -2,11 +2,8 @@
 
 A classic Pong game implementation using Python and Turtle graphics.
 
-[Click to see game demo](assets/demo.gif)
 
-
-![Game Demo](assets/Pong_game.gif)
-
+<img src="assets/Pong_game.gif" width="500" alt="Game Demo">
 
 ## Features
 
