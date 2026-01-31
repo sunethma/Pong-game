@@ -46,4 +46,4 @@ This game uses `winsound` which is Windows-specific. For other operating systems
 
 ---
 
-Made by @Sunethma****
+Made by Sunethma
