@@ -2,6 +2,9 @@
 
 A classic Pong game implementation using Python and Turtle graphics.
 
+![Game Demo](assets/Pong_game.gif)
+
+
 ## Features
 
 - Two-player gameplay
